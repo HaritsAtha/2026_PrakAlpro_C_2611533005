@@ -1,3 +1,7 @@
+# Buat nama dengan nama Konstanta_NIM.py
+# Program ini menggunakan konstanta untuk menghitung luas lingkaran
+# nama variable ditambah 4 digit nim terakhir contoh: jari_1234
+
 from typing import Final, final
 PI: Final = 3.14
 print("pi: %f" % PI)

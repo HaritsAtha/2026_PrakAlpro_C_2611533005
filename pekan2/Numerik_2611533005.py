@@ -1,4 +1,6 @@
-#create a variable with numeric type value
+# Buat file  dengan nama Numerik_NIM.py
+# nama variable ditambah 4 digit terakhir NIM contoh: a_5500
+# #create a variable with numeric type value
 a_3005=100
 print("The type of variable having value", a_3005, " is ", type(a_3005))
 
